@@ -269,7 +269,7 @@ print(me.motto())
 |:---|:---|:---:|:---|
 | [**🌿 MistWings Ooty**](https://ootymistwings.com) | HTML · CSS · JS · Netlify | [🔗 Live](https://ootymistwings.com) | Tourism site · Mobile-first UI/UX · GitHub–Netlify CI/CD · Interactive design |
 | [**🎮 Gaming Kingdom**](https://ootythegamingkingdom.com) | HTML · CSS · JS · Web Hosting | [🔗 Live](https://ootythegamingkingdom.com) | Gaming & booking platform · Scalable architecture · Mobile-responsive |
-| [**🏔️ Nilgiris Explorers**](https://github.com/SaiVinoth17) | HTML · CSS · JS · WhatsApp API | 🔒 Repo | Ooty, Coonoor & Pykara tours · WhatsApp booking integration · SEO + performance optimized |
+| [**🏔️ Nilgiris Explorers**](https://nilgirisexplorers.com/) | HTML · CSS · JS · WhatsApp API |  [🔗 Live](https://nilgirisexplorers.com) | Ooty, Coonoor & Pykara tours · WhatsApp booking integration · SEO + performance optimized |
 
 </div>
 
